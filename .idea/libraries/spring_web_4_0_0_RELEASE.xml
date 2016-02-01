@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="spring-web-4.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/BaiduYunDownload/ssh2/spring/spring-web-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduYunDownload/ssh2/spring/spring-webmvc-4.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
