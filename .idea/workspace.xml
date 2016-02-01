@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79ea6c25-98fc-49e9-a28d-82aecf4bc528" name="Default" comment="">
+    <list default="true" id="79ea6c25-98fc-49e9-a28d-82aecf4bc528" name="Default" comment="Remove some redundant code&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/UserAction.java" afterPath="$PROJECT_DIR$/src/actions/UserAction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -882,7 +880,7 @@
       <workItem from="1454148468565" duration="12159000" />
       <workItem from="1454204246484" duration="4549000" />
       <workItem from="1454297844572" duration="389000" />
-      <workItem from="1454299902167" duration="785000" />
+      <workItem from="1454299902167" duration="909000" />
     </task>
     <task id="LOCAL-00001" summary="SSH demo&#10;&#10;Test Spring without AOP , making the input value can save into mysql&#10;">
       <created>1454300072524</created>
@@ -896,11 +894,17 @@
       <option name="project" value="LOCAL" />
       <updated>1454300182291</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Remove some redundant code&#10;">
+      <created>1454300751521</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1454300751521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17882000" />
+    <option name="totallyTimeSpent" value="18006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1452" height="876" extended-state="0" />
@@ -949,7 +953,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SSH demo&#10;&#10;Test Spring without AOP , making the input value can save into mysql&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="SSH demo&#10;&#10;Test Spring without AOP , making the input value can save into mysql&#10;" />
+    <MESSAGE value="Remove some redundant code&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove some redundant code&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
