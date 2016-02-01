@@ -9,7 +9,7 @@ import service.UserServiceImpl;
  * Created by Bo on 2016/1/30.
  */
 public class UserAction extends ActionSupport {
-    private UserService userService = new UserServiceImpl();
+    private UserService userService;
 
     private User user;
 
@@ -28,6 +28,7 @@ public class UserAction extends ActionSupport {
     public void setUserService(UserService userService) {
         this.userService = userService;
     }
+
     public String addUser(){//添加用户
         userService.addUser(user);
         return SUCCESS;
